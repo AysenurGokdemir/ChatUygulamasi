@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SoruCevapApp</string>
+
+    <string name="btn_login_login">Giriş Yap</string>
+    <string name="et_login_email">Email</string>
+    <string name="et_login_password">Şifre</string>
+    <string name="tv_notRegistered">Kayıtlı değil misiniz?</string>
+    <string name="exit">Çıkış Yap</string>
+
+    <string name="btn_register_register">Kayıt Ol</string>
+    <string name="et_register_email">Email</string>
+    <string name="et_register_password">Şifre</string>
+    <string name="et_register_repassword">Şifreyi Tekrar Giriniz</string>
+    <string name="tv_registered">Kayıtlı mısınız?</string>
+
+    <string name="btn_quiz_answer">Cevapla</string>
+
+</resources>
